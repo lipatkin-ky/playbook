@@ -14,7 +14,6 @@ ansible-playbook -i inventory/prod.yml site.yml
  - elastic - установить только Elastic
  - kibana - установить только Kibana
 
-
 ## Переменные:
 
 | Название        | Значение по умолчанию           | Описание  |
