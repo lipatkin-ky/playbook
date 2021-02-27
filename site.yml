@@ -11,4 +11,3 @@
     hosts: kibana
     roles: 
       - kibana-role
-###
